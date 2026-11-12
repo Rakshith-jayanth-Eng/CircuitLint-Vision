@@ -1,0 +1,6 @@
+{
+  "name": "CircuitLint Vision",
+  "description": "Clean, dark-mode bench engineering tool for automated breadboard, schematic, and logic analyzer audit with multimeter verification checklist.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
